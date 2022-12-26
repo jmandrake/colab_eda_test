@@ -1,2 +1,2 @@
 # colab_eda_test
-Testing Colab pandas with sample data
+Sample data files for use with Colab notebook.
