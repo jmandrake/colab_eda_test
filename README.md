@@ -1,3 +1,6 @@
+# About this project
+the main purpose is to show how to use Github as a data repository that you can access directly from other applications. In this case, I use Google Colab to ingest the raw data using !wget in the notebook. You could also do the same thing from a Docker container, AWS Lambda function, or a regular website on shared hosting, etc. The point is to have that option, and to be able to use it if it makes sense for your application. You could even use Github Actions with crontab to schedule regular downloads to refresh the data files. Just be mindful of the file size limit and run time quotas on Github.
+
 # colab_eda_test
 Sample data files for use with Colab notebook:
 
